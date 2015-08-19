@@ -1,6 +1,4 @@
 'use strict';
-
-var exec = require('child_process').exec;
 var gulp = require('gulp');
 
 var helper = {
@@ -14,7 +12,6 @@ var helper = {
         return plugin;
     }
 };
-var pkg = require('./package.json');
 
 gulp.task('default', ['build'], function () {
 });
