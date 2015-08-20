@@ -1,3 +1,8 @@
+[![Build](https://img.shields.io/travis/sapbuild/node-sap-mailer.svg?style=flat-square)](http://travis-ci.org/sapbuild/node-sap-mailer)
+[![Version](https://img.shields.io/npm/v/node-sap-mailer.svg?style=flat-square)](https://npmjs.org/package/node-sap-mailer)
+[![Dependency Status](https://david-dm.org/sapbuild/node-sap-mailer.svg)](https://david-dm.org/sapbuild/node-sap-mailer)
+[![devDependency Status](https://david-dm.org/sapbuild/node-sap-mailer/dev-status.svg)](https://david-dm.org/sapbuild/node-sap-mailer#info=devDependencies)
+[![Coverage](https://img.shields.io/coveralls/sapbuild/node-sap-mailer/master.svg?style=flat-square)](https://coveralls.io/r/sapbuild/node-sap-mailer?branch=master)
 node-sap-mailer
 ===============
 
