@@ -10,7 +10,7 @@ var logger = {
 };
 
 var config = {
-    sender: 'do.not.reply2@sap.com',
+    sender: 'do.not.reply2@example.com',
     smtp: {
         host: 'mail.sap.corp2',
         port: 252,
@@ -28,7 +28,7 @@ describe('Mailer: basic test', function () {
     });
 
     it('get/set sender', function (done) {
-        var sender = 'do.not.reply@sap.com';
+        var sender = 'do.not.reply@example.com';
         mailer.sender = sender;
 
         expect(mailer.sender).to.equal(sender);
